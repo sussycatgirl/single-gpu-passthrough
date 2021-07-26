@@ -1,3 +1,5 @@
+## This document is not finished, please do not use it yet.
+
 # Single GPU passthrough to a virtual machine
 
 This guide will guide you through setting up a "Gaming VM" without the need for a second GPU.\
